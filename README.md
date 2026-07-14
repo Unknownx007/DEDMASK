@@ -1,4 +1,4 @@
-## BleedStream URL Masker 🚨
+## BleedStream DEDMASK 🚨
 
 A protocol-level standalone URL engineering utility designed for deep credential pretexting and domain masking. It leverages native browser URL parsing mechanics (RFC 3986 UserInfo specifications) to visually mask destination URLs behind highly trusted target domains entirely offline or online.
 
